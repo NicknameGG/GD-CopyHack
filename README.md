@@ -1,2 +1,3 @@
 # GD-CopyHack
-Geometry Dash Copy Hack source code! (May not work in original gd lol)
+Geometry Dash Copy Hack source code! 
+Tested in Pirate Geometry Dash, it may not work in original GD
